@@ -5,4 +5,5 @@ O trabalho 1 tem como objetivo fazer um programa que gere entradas aceitas pelo 
 O objetivo do segundo trabalho era resolver um problema de branch & bound
 
 ##
-Obs: ambos os trabalhos têm relatórios explicando e resolvendo os problemas em seus respectivos diretórios.
+- Ambos os trabalhos têm relatórios explicando e resolvendo os problemas em seus respectivos diretórios.
+- Os trabalhos foram feitos em dupla com meu amigo Fernando Gbur.
